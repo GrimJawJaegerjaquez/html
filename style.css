@@ -1,0 +1,29 @@
+
+h1{
+    color:aqua
+}
+
+.header{
+    background-color:antiquewhite;
+    display:flex;
+    justify-content:space-evenly;
+}
+
+.allgames{
+    background-color:antiquewhite;
+    display:flex;
+    justify-content:space-evenly;
+}
+
+.footer{
+    display:flex;
+    justify-content:flex-end;
+}
+
+h2,p{
+    text-align: center;
+}
+
+body{
+    background-color: aquamarine;
+}
